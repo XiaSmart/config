@@ -2,7 +2,8 @@
   {
     "id" : "01",
     "name" : "总校",
-    "url" : ""
+    "techurl" : "",
+    "studurl" : ""
   }
 
 ]

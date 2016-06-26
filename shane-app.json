@@ -1,9 +1,18 @@
-[
+"data" : [
+  {
+    "id" : "01",
+    "name" : "上海-总校",
+    "url" : "http://elearning,.shane.com.cn/wap/57"
+  },
+  {
+    "id" : "02“
+    "name" : "南京-江宁一校",
+    "url" : "http://elearning,.shane.com.cn/wap/57"
+  },
   {
     "id" : "01",
     "name" : "总校",
-    "techurl" : "",
-    "studurl" : ""
+    "url" : "http://elearning,.shane.com.cn/wap/57"
   }
 
 ]

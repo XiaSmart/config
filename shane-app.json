@@ -2,17 +2,17 @@
   {
     "id" : "01",
     "name" : "上海-总校",
-    "url" : "http://elearning,.shane.com.cn/wap/57"
+    "url" : "http://elearning.shane.com.cn/wap/29/centre/login"
   },
   {
-    "id" : "02“
+    "id" : "02",
     "name" : "南京-江宁一校",
-    "url" : "http://elearning,.shane.com.cn/wap/57"
+    "url" : "http://elearning.shane.com.cn/wap/57/centre/login"
   },
   {
-    "id" : "01",
+    "id" : "03",
     "name" : "总校",
-    "url" : "http://elearning,.shane.com.cn/wap/57"
+    "url" : "http://elearning.shane.com.cn/wap/57/centre/login"
   }
 
 ]

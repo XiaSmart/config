@@ -1,188 +1,188 @@
-http://elearning.shane.com.cn/wap/29/centre/item
-
 {
-	"data": [{
-		"id": "01",
-		"name": "上海-总校",
-		"homeurl": "http://elearning.shane.com.cn/wap/29/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/29/centre/register",
-		"loginurl": "http://elearning.shane.com.cn/wap/29/centre/login",
-		"logouturl": "http://elearning.shane.com.cn/wap/29/centre/logout"
-	},
-	{
-		"id": "02",
-		"name": "上海-长宁分校",
-		"homeurl": "http://elearning.shane.com.cn/wap/5/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/5/centre/register",
-		"loginurl": "http://elearning.shane.com.cn/wap/5/centre/login",
-		"logouturl": "http://elearning.shane.com.cn/wap/5/centre/logout"
-	},
-	{
-		"id": "03",
-		"name": "上海-杨浦分校",
-		"homeurl": "http://elearning.shane.com.cn/wap/36/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/36/centre/register",
-		"loginurl": "http://elearning.shane.com.cn/wap/36/centre/login",
-		"logouturl": "http://elearning.shane.com.cn/wap/36/centre/logout"
-	},
-	{
-		"id": "04",
-		"name": "上海-徐汇分校",
-		"homeurl": "http://elearning.shane.com.cn/wap/59/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/59/centre/register",
-		"loginurl": "http://elearning.shane.com.cn/wap/59/centre/login",
-		"logouturl": "http://elearning.shane.com.cn/wap/59/centre/logout"
-	},
-	{
-		"id": "05",
-		"name": "上海-青浦分校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/37/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/37/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/37/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/37/centre/logout"
-	},
-	{
-		"id": "06",
-		"name": "苏州-苏州校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/44/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/44/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/44/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/44/centre/logout"
-	},
-	{
-		"id": "07",
-		"name": "无锡-滨湖校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/49/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/49/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/49/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/49/centre/logout"
-	},
-	{
-		"id": "08",
-		"name": "无锡-城中校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/47/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/47/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/47/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/47/centre/logout"
-	},
-	{
-		"id": "09",
-		"name": "无锡-东亭校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/46/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/46/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/46/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/46/centre/logout"
-	},
-	{
-		"id": "10",
-		"name": "无锡-南长校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/48/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/48/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/48/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/48/centre/logout"
-	},
-	{
-		"id": "11",
-		"name": "无锡-惠山校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/50/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/50/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/50/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/50/centre/logout"
-	},
-	{
-		"id": "12",
-		"name": "南京-瑞金校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/55/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/29/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/55/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/55/centre/logout"
-	},
-	{
-		"id": "13",
-		"name": "宜兴-宜兴校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/51/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/51/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/51/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/51/centre/logout"
-	},
-	{
-		"id": "14",
-		"name": "南京-龙江校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/56/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/56/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/56/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/56/centre/logout"
-	},
-	{
-		"id": "15",
-		"name": "南京-江宁一校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/57/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/57/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/57/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/57/centre/logout"
-	},
-	{
-		"id": "16",
-		"name": "南京-江宁二校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/58/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/58/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/58/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/58/centre/logout"
-	},
-	{
-		"id": "17",
-		"name": "溧阳-党校校区",
-		"homeurl": "http: //elearning.shane.com.cn/wap/60/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/60/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/60/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/60/centre/logout"
-	},
-	{
-		"id": "18",
-		"name": "溧阳-外国语校校区",
-		"homeurl": "http: //elearning.shane.com.cn/wap/61/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/61/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/61/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/61/centre/logout"
-	},
-	{
-		"id": "19",
-		"name": "常州-钟楼校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/52/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/52/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/52/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/52/centre/logout"
-	},
-	{
-		"id": "20",
-		"name": "常州-新北校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/53/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/53/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/53/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/53/centre/logout"
-	},
-	{
-		"id": "21",
-		"name": "常州-湖塘校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/54/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/54/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/54/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/54/centre/logout"
-	},
-	{
-		"id": "22",
-		"name": "成都-锦江春熙校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/62/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/62/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/62/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/62/centre/logout"
-	},
-	{
-		"id": "23",
-		"name": "成都-东城国际校",
-		"homeurl": "http: //elearning.shane.com.cn/wap/64/centre/item",
-		"registurl": "http://elearning.shane.com.cn/wap/64/centre/register",
-		"loginurl": "http: //elearning.shane.com.cn/wap/64/centre/login",
-		"logouturl": "http: //elearning.shane.com.cn/wap/64/centre/logout"
-	}]
+    "data": [
+        {
+            "id": "01",
+            "name": "上海-总校",
+            "homeurl": "http://elearning.shane.com.cn/wap/29/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/29/centre/register",
+            "loginurl": "http://elearning.shane.com.cn/wap/29/centre/login",
+            "logouturl": "http://elearning.shane.com.cn/wap/29/centre/logout"
+        },
+        {
+            "id": "02",
+            "name": "上海-长宁分校",
+            "homeurl": "http://elearning.shane.com.cn/wap/5/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/5/centre/register",
+            "loginurl": "http://elearning.shane.com.cn/wap/5/centre/login",
+            "logouturl": "http://elearning.shane.com.cn/wap/5/centre/logout"
+        },
+        {
+            "id": "03",
+            "name": "上海-杨浦分校",
+            "homeurl": "http://elearning.shane.com.cn/wap/36/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/36/centre/register",
+            "loginurl": "http://elearning.shane.com.cn/wap/36/centre/login",
+            "logouturl": "http://elearning.shane.com.cn/wap/36/centre/logout"
+        },
+        {
+            "id": "04",
+            "name": "上海-徐汇分校",
+            "homeurl": "http://elearning.shane.com.cn/wap/59/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/59/centre/register",
+            "loginurl": "http://elearning.shane.com.cn/wap/59/centre/login",
+            "logouturl": "http://elearning.shane.com.cn/wap/59/centre/logout"
+        },
+        {
+            "id": "05",
+            "name": "上海-青浦分校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/37/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/37/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/37/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/37/centre/logout"
+        },
+        {
+            "id": "06",
+            "name": "苏州-苏州校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/44/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/44/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/44/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/44/centre/logout"
+        },
+        {
+            "id": "07",
+            "name": "无锡-滨湖校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/49/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/49/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/49/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/49/centre/logout"
+        },
+        {
+            "id": "08",
+            "name": "无锡-城中校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/47/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/47/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/47/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/47/centre/logout"
+        },
+        {
+            "id": "09",
+            "name": "无锡-东亭校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/46/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/46/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/46/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/46/centre/logout"
+        },
+        {
+            "id": "10",
+            "name": "无锡-南长校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/48/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/48/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/48/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/48/centre/logout"
+        },
+        {
+            "id": "11",
+            "name": "无锡-惠山校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/50/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/50/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/50/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/50/centre/logout"
+        },
+        {
+            "id": "12",
+            "name": "南京-瑞金校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/55/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/29/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/55/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/55/centre/logout"
+        },
+        {
+            "id": "13",
+            "name": "宜兴-宜兴校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/51/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/51/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/51/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/51/centre/logout"
+        },
+        {
+            "id": "14",
+            "name": "南京-龙江校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/56/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/56/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/56/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/56/centre/logout"
+        },
+        {
+            "id": "15",
+            "name": "南京-江宁一校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/57/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/57/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/57/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/57/centre/logout"
+        },
+        {
+            "id": "16",
+            "name": "南京-江宁二校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/58/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/58/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/58/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/58/centre/logout"
+        },
+        {
+            "id": "17",
+            "name": "溧阳-党校校区",
+            "homeurl": "http: //elearning.shane.com.cn/wap/60/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/60/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/60/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/60/centre/logout"
+        },
+        {
+            "id": "18",
+            "name": "溧阳-外国语校校区",
+            "homeurl": "http: //elearning.shane.com.cn/wap/61/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/61/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/61/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/61/centre/logout"
+        },
+        {
+            "id": "19",
+            "name": "常州-钟楼校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/52/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/52/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/52/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/52/centre/logout"
+        },
+        {
+            "id": "20",
+            "name": "常州-新北校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/53/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/53/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/53/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/53/centre/logout"
+        },
+        {
+            "id": "21",
+            "name": "常州-湖塘校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/54/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/54/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/54/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/54/centre/logout"
+        },
+        {
+            "id": "22",
+            "name": "成都-锦江春熙校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/62/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/62/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/62/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/62/centre/logout"
+        },
+        {
+            "id": "23",
+            "name": "成都-东城国际校",
+            "homeurl": "http: //elearning.shane.com.cn/wap/64/centre/item",
+            "registurl": "http://elearning.shane.com.cn/wap/64/centre/register",
+            "loginurl": "http: //elearning.shane.com.cn/wap/64/centre/login",
+            "logouturl": "http: //elearning.shane.com.cn/wap/64/centre/logout"
+        }
+    ]
 }

@@ -1,1 +1,3 @@
-
+function getGameUrl(){
+    return "testurl";
+}

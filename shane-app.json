@@ -2,7 +2,7 @@
     "data": [
         {
             "id": "01",
-            "name": "上海-总校",
+            "name": "上海-静安校",
             "homeurl": "http://elearning.shane.com.cn/wap/29/centre/item",
             "registurl": "http://elearning.shane.com.cn/wap/29/centre/register",
             "loginurl": "http://elearning.shane.com.cn/wap/29/centre/login",
@@ -10,7 +10,7 @@
         },
         {
             "id": "02",
-            "name": "上海-长宁分校",
+            "name": "上海-长宁校",
             "homeurl": "http://elearning.shane.com.cn/wap/5/centre/item",
             "registurl": "http://elearning.shane.com.cn/wap/5/centre/register",
             "loginurl": "http://elearning.shane.com.cn/wap/5/centre/login",
@@ -18,7 +18,7 @@
         },
         {
             "id": "03",
-            "name": "上海-杨浦分校",
+            "name": "上海-杨浦校",
             "homeurl": "http://elearning.shane.com.cn/wap/36/centre/item",
             "registurl": "http://elearning.shane.com.cn/wap/36/centre/register",
             "loginurl": "http://elearning.shane.com.cn/wap/36/centre/login",
@@ -26,7 +26,7 @@
         },
         {
             "id": "04",
-            "name": "上海-徐汇分校",
+            "name": "上海-徐汇校",
             "homeurl": "http://elearning.shane.com.cn/wap/59/centre/item",
             "registurl": "http://elearning.shane.com.cn/wap/59/centre/register",
             "loginurl": "http://elearning.shane.com.cn/wap/59/centre/login",
@@ -34,7 +34,7 @@
         },
         {
             "id": "05",
-            "name": "上海-青浦分校",
+            "name": "上海-青浦校",
             "homeurl": "http://elearning.shane.com.cn/wap/37/centre/item",
             "registurl": "http://elearning.shane.com.cn/wap/37/centre/register",
             "loginurl": "http://elearning.shane.com.cn/wap/37/centre/login",
@@ -146,7 +146,7 @@
         },
         {
             "id": "19",
-            "name": "常州-钟楼校",
+            "name": "扬州-扬州校",
             "homeurl": "http://elearning.shane.com.cn/wap/52/centre/item",
             "registurl": "http://elearning.shane.com.cn/wap/52/centre/register",
             "loginurl": "http://elearning.shane.com.cn/wap/52/centre/login",
@@ -154,7 +154,7 @@
         },
         {
             "id": "20",
-            "name": "常州-新北校",
+            "name": "扬州-广陵校",
             "homeurl": "http://elearning.shane.com.cn/wap/53/centre/item",
             "registurl": "http://elearning.shane.com.cn/wap/53/centre/register",
             "loginurl": "http://elearning.shane.com.cn/wap/53/centre/login",
@@ -162,7 +162,7 @@
         },
         {
             "id": "21",
-            "name": "常州-湖塘校",
+            "name": "昆山-昆山校",
             "homeurl": "http://elearning.shane.com.cn/wap/54/centre/item",
             "registurl": "http://elearning.shane.com.cn/wap/54/centre/register",
             "loginurl": "http://elearning.shane.com.cn/wap/54/centre/login",

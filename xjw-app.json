@@ -3,10 +3,11 @@
         {
             "id": "01",
             "name": "校际网",
-            "homeurl": "http://elearning.shane.com.cn/wap/29/centre/item",
-            "registurl": "http://elearning.shane.com.cn/wap/29/centre/register",
-            "loginurl": "http://elearning.shane.com.cn/wap/29/centre/login",
-            "logouturl": "http://elearning.shane.com.cn/wap/29/centre/logout"
+            "homeurl": "http://www.schoolrun.com.cn/wap/2/centre/item",
+            "registurl": "http://www.schoolrun.com.cn/wap/2/centre/register",
+            "loginurl": "http://www.schoolrun.com.cn/wap/2/centre/login",
+            "logouturl": "http://www.schoolrun.com.cn/wap/2/centre/logout"
         }
     ]
 }
+2
